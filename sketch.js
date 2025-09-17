@@ -6,7 +6,8 @@ function setup() {
 }
 
 function draw() {
-  // Anna's HW
+  // Anna Le HW 3
+  // color picker thing we used for HW 2 was my insp
   // lots of loops
   // 11 x 10 = 110
 
